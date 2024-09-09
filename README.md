@@ -36,12 +36,14 @@ I am currently developing my skills in system administration with a focus on Lin
 
 Here are some of the projects I'm working on and planning to upload soon:
 
-| Project Name | Category | Description |
-| ------------ | -------- | ----------- |
-| **Portfolio Website** | Portfolio | Building a personal portfolio site to showcase projects. |
-| **Relational Database Project (freeCodeCamp)** | Databases | Completing a relational database certification on freeCodeCamp. |
-| **Server Automation with Ansible** | Automation | Automating server setup with Ansible playbooks. |
-| **Dockerized Web App** | Containers | Deploying a basic web app with Docker Compose. |
+# 🚀 **Future Projects**
+
+| Project Name | Category | Description | Links |
+| ------------ | -------- | ----------- | ----- |
+| **Portfolio Website** | [![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db)]() | 🌐 Building a personal portfolio site to showcase projects. | [![](https://img.shields.io/badge/-Website-informational?style=flat&logoColor=black&color=white)](https://yourportfolio.com) |
+| **Relational Database Project (freeCodeCamp)** | [![](https://img.shields.io/badge/📊-%20Databases-informational?style=flat&logoColor=white&color=2ecc71)]() | 🗄 Completing a relational database certification on freeCodeCamp. | [![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/yourusername/db-project) |
+| **Server Automation with Ansible** | [![](https://img.shields.io/badge/⚙️-%20Automation-informational?style=flat&logoColor=white&color=f39c12)]() | 🤖 Automating server setup with Ansible playbooks. | [![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/yourusername/ansible-automation) |
+| **Dockerized Web App** | [![](https://img.shields.io/badge/🐳-%20Containers-informational?style=flat&logoColor=white&color=2496ED)]() | 🚢 Deploying a basic web app with Docker Compose. | [![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/yourusername/docker-webapp) |
 
 ---
 
