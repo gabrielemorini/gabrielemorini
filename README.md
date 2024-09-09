@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 ** Gabriele Morini **
+# 👨‍💻 **Gabriele Morini**
 
 A System Administrator passionate about building infrastructure with Linux, Windows Server, and open-source tools.
 
