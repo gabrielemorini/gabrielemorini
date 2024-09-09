@@ -18,25 +18,10 @@ A System Administrator passionate about building infrastructure with Linux, Wind
 
 <hr>
 
-# 🚀 **About Me**
-
-I am currently developing my skills in system administration with a focus on Linux-based infrastructures, Windows Server, virtualization, and open-source technologies. I'm passionate about:
-  
-  🌐 Linux Systems (Debian, Rocky Linux) 
-  🛠 Windows Server management and administration
-  📦 Containerization (Docker)
-  🖥️ Virtualization with VMware
-  🛠 Automation with Bash and Python scripting
-  📋 Scripting and automation tools (e.g., Bash, Python)
-  🛠 Monitoring and tuning system performance
-
----
 
 # 💡 **Future Projects**
 
 Here are some of the projects I'm working on and planning to upload soon:
-
-# 🚀 **Future Projects**
 
 | Project Name | Category | Description | Links |
 | ------------ | -------- | ----------- | ----- |
