@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 **[Gabriele Morini]**
+# 👨‍💻 ** Gabriele Morini **
 
 A System Administrator passionate about building infrastructure with Linux, Windows Server, and open-source tools.
 
@@ -21,14 +21,14 @@ A System Administrator passionate about building infrastructure with Linux, Wind
 # 🚀 **About Me**
 
 I am currently developing my skills in system administration with a focus on Linux-based infrastructures, Windows Server, virtualization, and open-source technologies. I'm passionate about:
-
-- 🌐 Linux Systems (Debian, Rocky Linux)
-- 🛠 Windows Server management and administration
-- 📦 Containerization (Docker)
-- 🖥️ Virtualization with VMware
-- 🛠 Automation with Bash and Python scripting
-- 📋 Scripting and automation tools (e.g., Bash, Python)
-- 🛠 Monitoring and tuning system performance
+  
+  🌐 Linux Systems (Debian, Rocky Linux) 
+  🛠 Windows Server management and administration
+  📦 Containerization (Docker)
+  🖥️ Virtualization with VMware
+  🛠 Automation with Bash and Python scripting
+  📋 Scripting and automation tools (e.g., Bash, Python)
+  🛠 Monitoring and tuning system performance
 
 ---
 
