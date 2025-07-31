@@ -11,10 +11,22 @@ A System Administrator passionate about building infrastructure with Linux and o
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)](https://www.vim.org/)
 
-<!-- [![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/tuo-profilo) -->
-[![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/tuo-username)
+---
+### My Certification
+<p  align="center">
+</a> &nbsp;&nbsp; <a href="https://www.credly.com/badges/054b1827-f14b-4ea8-ad2c-cce859be8e93" target="_blank"> <img src="https://images.credly.com/size/340x340/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" alt="LFCSA Badge" width="120" style="margin-right: 20px;"> </a> &nbsp;&nbsp;
+<a href="https://www.credly.com/badges/25efb177-f1e9-4a02-81df-91c8a8b47d70" target="_blank"> <img src="https://images.credly.com/size/340x340/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="RHCE Badge" width="120" style="margin-right: 40px;"> </a> &nbsp;&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/d6bc88ce-263a-4115-9359-b042c3da31a1" target="_blank"> <img src="https://images.credly.com/size/340x340/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="RHCSA Badge" width="120" style="margin-right: 20px;">  </p>
 
-<hr>
+---
+
+# Projects 
+
+| Project Name | Category | Description | Links |
+| ------------ | -------- | ----------- | ----- |
+| **LFCS: Linux Foundation Certified Systems Administrator** | ![Linux Badge](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=2c3e50) | 📘  LFCS Exam - Theory and Exercises | [![](https://img.shields.io/badge/-LFCS%20Repo-3498db?style=flat&logo=github&logoColo)](https://github.com/gabrielemorini/lfc)
+
+
 
 
 # 💡 **Future Projects**
