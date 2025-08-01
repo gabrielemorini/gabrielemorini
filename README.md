@@ -24,7 +24,7 @@ A System Administrator passionate about building infrastructure with Linux and o
 
 | Project Name | Category | Description | Links |
 | ------------ | -------- | ----------- | ----- |
-| **LFCS: Linux Foundation Certified Systems Administrator** | ![Linux Badge](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=2c3e50) | 📘  LFCS Exam - Theory and Exercises | [![](https://img.shields.io/badge/-LFCS%20Repo-3498db?style=flat&logo=github&logoColo)](https://github.com/gabrielemorini/lfcs)
+| **LFCS: Linux Foundation Certified Systems Administrator** | [![](https://img.shields.io/badge/OS-%20Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)](https://www.linux.org/) | 📘  LFCS Exam - Theory and Exercises | [![](https://img.shields.io/badge/-LFCS%20Repo-3498db?style=flat&logo=github&logoColo)](https://github.com/gabrielemorini/lfcs)
 
 
 
