@@ -5,11 +5,12 @@
 A System Administrator passionate about building infrastructure with Linux and open-source tools.
 
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)](https://www.linux.org/)
-[![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=vmware&logoColor=white&color=green)](https://www.vmware.com/)
+[![](https://img.shields.io/badge/Automation-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=red)](https://www.ansible.com/)
+[![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4EAA25)](https://www.gnu.org/software/bash/)
 [![](https://img.shields.io/badge/Containers-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)](https://www.docker.com/)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)](https://www.python.org/)
-[![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)](https://www.vim.org/)
+[![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=vmware&logoColor=white&color=green)](https://www.vmware.com/)
+
 
 ---
 ### My Certification
