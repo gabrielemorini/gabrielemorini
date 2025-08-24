@@ -34,7 +34,7 @@ A System Administrator passionate about building infrastructure with Linux and o
 | Project Name | Category | Description | Links |
 | ------------ | -------- | ----------- | ----- |
 | **LFCS: Linux Foundation Certified Systems Administrator** | [![](https://img.shields.io/badge/OS-%20Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)](https://www.linux.org/) | 📘  LFCS Exam - Theory and Exercises | [![](https://img.shields.io/badge/-LFCS%20Repo-3498db?style=flat&logo=github&logoColo)](https://github.com/gabrielemorini/lfcs)
-
+| **RHCE: Red Hat Certified Engineer** | [![](https://img.shields.io/badge/OS-%20RedHat-informational?style=flat&logoColor=white&color=red)]() | 🤖 RHCE Exam - Exercices | [![](https://img.shields.io/badge/-RHCE%20Repo-E53935?style=flat&logo=github&logoColo)](https://github.com/gabrielemorini/rhce)
 
 
 
