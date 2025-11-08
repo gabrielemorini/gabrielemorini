@@ -13,7 +13,7 @@ A System Administrator passionate about building infrastructure with Linux and o
 
 
 ---
-### My Certification
+### My Certifications
 <p  align="center">
 &nbsp; 
   <a  href="https://www.credly.com/badges/054b1827-f14b-4ea8-ad2c-cce859be8e93" target="_blank" style="text-decoration: none; color: #fff; ">  
@@ -37,7 +37,7 @@ A System Administrator passionate about building infrastructure with Linux and o
 | **RHCE: Red Hat Certified Engineer** | [![](https://img.shields.io/badge/OS-%20RedHat-informational?style=flat&logoColor=white&color=red)]() | 🤖 RHCE Exam - Exercices | [![](https://img.shields.io/badge/-RHCE%20Repo-E53935?style=flat&logo=github&logoColo)](https://github.com/gabrielemorini/rhce)
 
 
-
+<!-- 
 ## 💡 **Future Projects**
 
 Here are some of the projects I'm working on and planning to upload soon:
@@ -47,6 +47,7 @@ Here are some of the projects I'm working on and planning to upload soon:
 | **Portfolio Website** | [![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db)]() | 🌐 Building a personal portfolio site to showcase projects. | [![](https://img.shields.io/badge/-Website-informational?style=flat&logoColor=black&color=white)](https://yourportfolio.com) |
 | **Server Automation with Ansible** | [![](https://img.shields.io/badge/⚙️-%20Automation-informational?style=flat&logoColor=white&color=red)]() | 🤖 Automating server setup with Ansible playbooks. | [![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/yourusername/ansible-automation) |
 | **Dockerized Web App** | [![](https://img.shields.io/badge/🐳-%20Containers-informational?style=flat&logoColor=white&color=2496ED)]() | 🚢 Deploying a basic web app with Docker Compose. | [![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/yourusername/docker-webapp) |
+-->
 
 ---
 
